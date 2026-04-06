@@ -23,7 +23,7 @@ This project presents an interactive Power BI dashboard analyzing Indian eCommer
 - Data Cleaning & Transformation
 
 ## 📷 Dashboard Preview
-![Dashboard](your-image-name.png)
+![Dashboard](https://github.com/chinmayeey/eCommerce-powerbi-dashboard/blob/main/Ecommerce%20.png)
 
 ## 📁 Files Included
 - `.pbix` file
